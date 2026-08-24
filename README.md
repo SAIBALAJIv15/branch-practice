@@ -5,3 +5,4 @@ test protection active
 test protection active
 test
 testing strict ruleset
+testing classic protection
