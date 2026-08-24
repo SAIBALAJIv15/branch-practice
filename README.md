@@ -1,3 +1,1 @@
-# Branch Practice Project
-Login feature added
-Login feature added
+# Branch Practice Project - v1.0
