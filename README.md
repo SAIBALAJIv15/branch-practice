@@ -6,3 +6,4 @@ test protection active
 test
 testing strict ruleset
 testing classic protection
+testing strict rejection
